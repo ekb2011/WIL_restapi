@@ -1,4 +1,4 @@
-# SMS Service Sample Code - Java
+# 1. SMS Service Sample Code - Java
 
 ## 개발환경
 * 언어 : Java
@@ -15,7 +15,7 @@
 ## Github Repository
 https://github.com/ekb2011/SMS_SampleCode_Java
 
-# SMS Service Sample Code - Python
+# 2. SMS Service Sample Code - Python
 
 ## 개발환경
 * 언어 : Python
@@ -44,7 +44,7 @@ $pip install requests
 
 https://github.com/ekb2011/SMS_SampleCode_Python
 
-# SMS Service Sample Code - PHP
+# 3. SMS Service Sample Code - PHP
 
 ## 개발환경
 * 언어 : PHP
