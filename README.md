@@ -150,4 +150,4 @@ print_r(json_encode(json_decode($response->getBody(), true)));
 
 ## Github Repository
 
-https://github.com/ekb2011/-SMS_SampleCode_PHP
+https://github.com/ekb2011/SMS_SampleCode_PHP
